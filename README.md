@@ -1,10 +1,10 @@
- **# Flight Ticket Fare Prediction**
+#  **Flight Ticket Fare Prediction**
 
-**## Overview**
+## **Overview**
 
 This project delves into the complex world of airline pricing and develops a predictive model to accurately estimate flight ticket fares. It aims to assist travelers, airlines, and online travel agencies in making informed decisions and optimizing pricing strategies.
 
-**## Problem Statement**
+## **Problem Statement**
 
 The airline industry is characterized by dynamic pricing influenced by various factors, including:
 
@@ -15,7 +15,7 @@ The airline industry is characterized by dynamic pricing influenced by various f
 
 The goal is to create a robust model that effectively predicts flight ticket prices based on diverse quantitative and qualitative features, providing valuable insights for stakeholders.
 
-**## Dataset Description**
+## **Dataset Description**
 
 * **Files:**
   * `Train.xlsx`: Training dataset containing features and ticket prices
@@ -27,16 +27,16 @@ The goal is to create a robust model that effectively predicts flight ticket pri
   * Qualitative features (e.g., airline, departure/arrival cities, flight type)
 * **Target Attribute:** `ticketprice`
 
-**## Evaluation Metric**
+## **Evaluation Metric**
 
 * **MAPE (Mean Absolute Percentage Error)** is the primary metric to assess model accuracy, emphasizing relative error for better interpretability.
 
-**## Model Performance**
+## **Model Performance**
 
 * Decision Tree and Post-Pruned Decision Tree models achieved:
    * R-squared: ~0.90
    * MAPE: ~0.095
 
-**## Contributions**
+## **Contributions**
 
 Contributions are welcome! Please feel free to submit issues, pull requests, or contact the project maintainers.
